@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World :vulcan_salute:
+
+- :joystick: I'm currently working on a game in Go using EngoEngine, soon to be made open source!
+- :space_invader: I have recently contributed to EngoEngine and I am working towards more on that
+- :scroll: I'm currently learning Java and expanding my knowledge of Go
+- :busts_in_silhouette: I'm looking to work on interesting open source Go projects
+- :speech_balloon: Ask me about my pets! I have cats, geckos and snakes :cat2: :lizard: :snake:
+- :satellite: You can reach me using the email on my profile!
+- :male_sign: My pronouns are he/him
 
 <!--
 **eth0net/eth0net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
