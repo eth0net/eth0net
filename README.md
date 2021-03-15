@@ -1,6 +1,6 @@
 ### Hello World :vulcan_salute:
 
-- :joystick: I'm currently working on a game in Go using EngoEngine, soon to be made open source!
+- :joystick: I'm currently working on a game in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
 - :space_invader: I have recently contributed to EngoEngine and I am working towards more on that
 - :scroll: I'm currently learning Java and expanding my knowledge of Go
 - :busts_in_silhouette: I'm looking to work on interesting open source Go projects
