@@ -1,12 +1,12 @@
 ### Hello World :vulcan_salute:
 
-- :joystick: I'm currently working on a [game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
-- :space_invader: I have recently contributed to [EngoEngine](https://github.com/EngoEngine/engo) and I am working towards more on that
-- :scroll: I'm currently expanding my knowledge of and experience with Go
-- :busts_in_silhouette: I'm looking to work on interesting open source Go projects
-- :speech_balloon: Ask me about my pets! I have cats, geckos and snakes :cat2: :lizard: :snake:
-- :satellite: You can reach me using the email on my profile!
-- :male_sign: My pronouns are he/him
+- 🕹️ I'm working on a [game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
+- 👾 I have contributed to [EngoEngine](https://github.com/EngoEngine/engo) and I am working towards more on that
+- 📜 I'm currently expanding my knowledge of and experience with Go
+- 👥 I'm looking to work on interesting open source Go projects
+- 💬 Ask me about my pets! I have cats, geckos, snakes, and a mantis :cat2: :lizard: :snake:
+- 📡 You can reach me using the email on my profile!
+- ♂️ My pronouns are he/him
 
 <!--
 **eth0net/eth0net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
