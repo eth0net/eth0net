@@ -1,10 +1,12 @@
-### Hello World :vulcan_salute:
+### Hello World 🖖🏻
 
-- 🕹️ I'm working on a [game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
-- 👾 I have contributed to [EngoEngine](https://github.com/EngoEngine/engo) and I am working towards more on that
-- 📜 I'm currently expanding my knowledge of and experience with Go
+- 🦀 I'm learning [Rust](https://www.rust-lang.org) and expanding my experience with [Go](https://go.dev)
+- 🎮 I'm learning to make games with [Godot](https://godotengine.org) and [Unity](https://unity.com)
+- 🕹 I made a demo [game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
+- 👾 I contributed to [EngoEngine](https://github.com/EngoEngine/engo) and want to work on more
+- 🧊 I would like to learn Kotlin and maybe Java, for Minecraft modding
 - 👥 I'm looking to work on interesting open source Go projects
-- 💬 Ask me about my pets! I have cats, geckos, snakes, and a mantis :cat2: :lizard: :snake:
+- 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, ants, and a mantis 🐈 🦎 🐍 🐜
 - 📡 You can reach me using the email on my profile!
 - ♂️ My pronouns are he/him
 
