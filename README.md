@@ -1,13 +1,12 @@
 ### Hello World 🖖🏻
 
-- 💙 My favourite language is [Go](https://go.dev) and I am steadily diving deeper
+- 💙 My favourite language is [Go](https://go.dev) and I am working to understand it's depths
 - 🦀 I'm learning [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org) to expand my abilities
-- 🧊 I made [Enchant Menu](https://github.com/eth0net/enchant-menu) for Minecraft using [Kotlin](https://kotlinlang.org)
+- 🧊 I make Minecraft mods and publish on [Modrinth](https://modrinth.com/user/eth0net)
 - 🎮 I'm learning to make games with [Godot](https://godotengine.org) and [Unity](https://unity.com)
-- 🕹 I made a demo [game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo)!
-- 👾 I contributed to [EngoEngine](https://github.com/EngoEngine/engo) and want to work on more
+- 👾 I made a [demo game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed!
 - 👥 I'm looking to work on interesting open source projects
-- 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, ants, and a mantis 🐈 🦎 🐍 🐜
+- 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, and ants 🐈 🦎 🐍 🐜
 - 📡 You can reach me using the email on my profile!
 - ♂️ My pronouns are he/him
 
