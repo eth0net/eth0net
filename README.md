@@ -7,7 +7,7 @@
 - 👾 I made a [demo game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed!
 - 👥 I'm looking to work on interesting open source projects
 - 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, and ants 🐈 🦎 🐍 🐜
-- 📡 You can reach me using the email on my profile!
+- 📡 You can reach me on Discord at `eth0net#3800`!
 - ♂️ My pronouns are he/him
 
 <!--
