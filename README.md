@@ -4,7 +4,7 @@
 [![Contains technical debt](./badges/contains-technical-debt.svg)](https://forthebadge.com)
 [![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![Pronouns: he / him](./badges/pronouns-he-_-him.svg)](https://forthebadge.com)
-[![Discord: eth0net#3800](./badges/discord-eth0net#3800.svg)](https://forthebadge.com)
+[![Discord: eth0net#3800](./badges/discord-eth0net-3800.svg)](https://forthebadge.com)
 
 ### Hello World 🖖🏻
 
