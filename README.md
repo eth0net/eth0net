@@ -1,3 +1,8 @@
+[![Open Source](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![Powered by energy drinks](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![Contains technical debt](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+[![0% optimised](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
 ### Hello World 🖖🏻
 
 - 💙 My favourite language is [Go](https://go.dev) and I am working to understand it's depths
