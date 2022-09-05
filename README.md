@@ -1,7 +1,10 @@
-[![Open Source](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![Powered by energy drinks](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
-[![Contains technical debt](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-[![0% optimised](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![Open source](./badges/open-source.svg)](https://forthebadge.com)
+[![Night owl](./badges/night-owl.svg)](https://forthebadge.com)
+[![Powered by energy drinks](./badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![Contains technical debt](./badges/contains-technical-debt.svg)](https://forthebadge.com)
+[![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![Pronouns: he / him](./badges/pronouns-he-_-him.svg)](https://forthebadge.com)
+[![Discord: eth0net#3800](eth0net/badges/discord-eth0net#3800.svg)](https://forthebadge.com)
 
 ### Hello World 🖖🏻
 
@@ -12,8 +15,6 @@
 - 👾 I made a [demo game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed!
 - 👥 I'm looking to work on interesting open source projects
 - 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, and ants 🐈 🦎 🐍 🐜
-- 📡 You can reach me on Discord at `eth0net#3800`!
-- ♂️ My pronouns are he/him
 
 <!--
 **eth0net/eth0net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
