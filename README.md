@@ -10,9 +10,8 @@
 
 ### Hello World 🖖🏻
 
-- 💙 My favourite language is [Go](https://go.dev) and I am working to understand it's depths
-- 🦀 I'm learning [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org) to expand my abilities
-- 🧊 I made Minecraft mods and published on [Modrinth](https://modrinth.com/user/eth0net)
+- 🦀 My favourite languages are [Rust](https://www.rust-lang.org) and [Go](https://go.dev) and I'm working to learn them in depth
+- 🧊 I have made some Minecraft mods using [Kotlin](https://kotlinlang.org) and published on [Modrinth](https://modrinth.com/user/eth0net)
 - 🎮 I'm learning to make games with [Godot](https://godotengine.org) and [Unity](https://unity.com)
 - 👾 I made a [demo game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed!
 - 👥 I'm looking to work on interesting open source projects
