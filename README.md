@@ -1,5 +1,6 @@
 [![Open source](./badges/open-source.svg)](https://forthebadge.com)
 [![Night owl](./badges/night-owl.svg)](https://forthebadge.com)
+[![Rewrite it in Rust](./badges/rewrite-it-in-rust.svg)](https://forthebadge.com)
 [![Powered by energy drinks](./badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 [![Contains technical debt](./badges/contains-technical-debt.svg)](https://forthebadge.com)
 [![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
