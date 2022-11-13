@@ -4,8 +4,8 @@
 [![Powered by energy drinks](./badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 [![Contains technical debt](./badges/contains-technical-debt.svg)](https://forthebadge.com)
 [![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
-[![You didn't ask for this](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 [![Cat servant](./badges/cat-servant.svg)](https://forthebadge.com)
+[![You didn't ask for this](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 [![Pronouns: he / him](./badges/pronouns-he-_-him.svg)](https://forthebadge.com)
 [![Discord: eth0net#3800](./badges/discord-eth0net-3800.svg)](https://forthebadge.com)
 
