@@ -14,8 +14,8 @@
 - 🦀 My favourite languages are [Rust](https://www.rust-lang.org) and [Go](https://go.dev) and I'm working to learn them in depth
 - 🪐 I make mods for [RimWorld](https://rimworldgame.com), and have put far too many hours into it!
 - 🧊 I have made some Minecraft mods using [Kotlin](https://kotlinlang.org) and published on [Modrinth](https://modrinth.com/user/eth0net)
-- 🎮 I'm learning to make games with [Godot](https://godotengine.org) and [Unity](https://unity.com)
-- 👾 I made a [demo game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed!
+- 🎮 I'm learning to make games with [Godot](https://godotengine.org) and hope to release a game in a few years!
+- 👾 I made a [prototype game](https://github.com/eth0net/magicgame) in Go using [EngoEngine](https://github.com/EngoEngine/engo) and contributed to the engine!
 - 👥 I'm looking to work on interesting open source projects
 - 💬 Ask me about my pets! I have cats, geckos, snakes, a chameleon, and ants 🐈 🦎 🐍 🐜
 
