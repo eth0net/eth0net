@@ -2,7 +2,6 @@
 [![Night owl](./badges/night-owl.svg)](https://forthebadge.com)
 [![Rewrite it in Rust](./badges/rewrite-it-in-rust.svg)](https://forthebadge.com)
 [![Powered by energy drinks](./badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
-[![Contains technical debt](./badges/contains-technical-debt.svg)](https://forthebadge.com)
 [![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![Cat servant](./badges/cat-servant.svg)](https://forthebadge.com)
 [![You didn't ask for this](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
