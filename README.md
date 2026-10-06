@@ -5,7 +5,7 @@
 [![0% optimised](./badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![Cat servant](./badges/cat-servant.svg)](https://forthebadge.com)
 [![Pronouns: he/they](./badges/pronouns-he_they.svg)](https://forthebadge.com)
-[![Discord: eth0net#3800](./badges/discord-eth0net-3800.svg)](https://forthebadge.com)
+[![Discord: eth0net](./badges/discord-eth0net.svg)](https://forthebadge.com)
 
 ### Hello World 🖖🏻
 
